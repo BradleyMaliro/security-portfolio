@@ -27,12 +27,6 @@ I'm a student at **KCA University** studying a **Bachelor of Information Securit
 - SIEM lab with Wazuh/Splunk (in progress)
 - Cloud security mini-project (planned)
 
-## Write-ups and projects
-| Date | Title | Platform |
-|---|---|---|
-| *Coming soon* | First TryHackMe room write-up | TryHackMe |
-
-I aim to publish a new write-up every week.
 
 ## 90-day plan (6 Oct 2026 - 3 Jan 2027)
 - [x] Set up Kali lab and GitHub
@@ -52,7 +46,6 @@ Wireshark · Nmap · Burp Suite · Wazuh/Splunk · Autopsy · Volatility · AWS 
 - LinkedIn: add your LinkedIn URL here
 - Email: bradleymalirogmail.com
 
-*Last updated: 8 Oct 2026*
 
 
 ## Write-ups
