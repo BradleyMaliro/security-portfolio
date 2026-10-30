@@ -53,3 +53,30 @@ Wireshark · Nmap · Burp Suite · Wazuh/Splunk · Autopsy · Volatility · AWS 
 - Email: bradleymalirogmail.com
 
 *Last updated: 8 Oct 2026*
+
+
+## Write-ups
+
+| Report | What it covers |
+|--------|----------------|
+| [Meow](writeups/meow.md) | Hack The Box Starting Point: Telnet (port 23) |
+| [Fawn](writeups/fawn.md) | Hack The Box Starting Point: FTP (port 21) |
+| [Redeemer](writeups/redeemer.md) | Hack The Box Starting Point: Redis (port 6379) |
+| [Offensive Security Intro](writeups/offensive-security-intro.md) | TryHackMe: introduction to offensive security |
+| [Week 4: Network Fundamentals](writeups/week-4-network-fundamentals.md) | OSI model, network devices, IP, TCP and UDP, common ports, DNS, logs and monitoring |
+| [Wireshark Lab: Reading My Own Network Traffic](writeups/wireshark-network-traffic-analysis.md) | Real packet captures of DNS, ICMP, the TCP handshake, plaintext HTTP and encrypted HTTPS |
+
+## Tools and skills practiced
+
+- Kali Linux in VirtualBox (home lab)
+- nmap for port scanning
+- Wireshark for packet analysis
+- Network fundamentals: OSI model, TCP/IP, DNS, common ports
+- Writing up findings clearly, with evidence
+
+## Progress
+
+I started a 90-day challenge on 6 October 2026 to turn my certificate and degree into hands-on, provable skills.
+
+- **Phase 1 (complete):** home lab, first Hack The Box and TryHackMe labs, networking fundamentals, packet analysis
+- **Phase 2 (starting 3 November):** blue team and SOC practice, a SIEM lab, and Security+ preparation
